@@ -1,0 +1,21 @@
+/* dark-theme.css
+
+/* Background and text color for the body */
+body {
+    background-color: #0a0a0a;
+    color: #ffffff;
+  }
+  
+  /* Navigation bar styles */
+  .l-header {
+    background-color: #333333;
+  }
+  
+  .nav__link {
+    color: #ffffff;
+  }
+  
+  
+  /* Other styles for dark theme */
+  /* Add more styles for different elements as needed */
+   */
