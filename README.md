@@ -1,5 +1,5 @@
 
-# RASMI RANJAN SAHOO GitHub Portfolio
+# RASMI RANJAN SAHOO Portfolio
 
 Welcome to my GitHub portfolio! 👋 I'm [Rasmi Ranjan Sahoo], and you can find more about me and my work on my [[portfolio website](https://ranjan7205.github.io/RanjanPortfolio/)].
 
